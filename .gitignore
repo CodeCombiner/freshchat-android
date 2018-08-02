@@ -3,8 +3,16 @@
 /.idea/workspace.xml
 /.idea/libraries
 .DS_Store
-/build
 /captures
 
 /.idea
 /.idea/*
+
+*.iml
+
+!/freshchat_sdk/build
+/freshchat_sdk/build/*
+!/freshchat_sdk/build/outputs
+/freshchat_sdk/build/outputs/*
+!/freshchat_sdk/build/outputs/aar
+!/freshchat_sdk/build/outputs/aar/freshchat_sdk-debug.aar
