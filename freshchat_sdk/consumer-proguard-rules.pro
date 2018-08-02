@@ -16,6 +16,8 @@
 #   public *;
 #}
 
+-keep class android.support.v7.widget.RecyclerView
+
 -keep class com.freshchat.consumer.sdk.** { *; }
 
 # Rules to keep the FCM dependency optional
