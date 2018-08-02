@@ -11,7 +11,7 @@ public final class BuildConfig {
   public static final int VERSION_CODE = 50;
   public static final String VERSION_NAME = "1.5.0";
   // Fields from default config.
-  public static final long BUILT_AT = 1533242334139L;
-  public static final String SCM_BRANCH = "HEAD";
-  public static final String SCM_REV = "fa484f7";
+  public static final long BUILT_AT = 1533244266967L;
+  public static final String SCM_BRANCH = "master";
+  public static final String SCM_REV = "7240422";
 }
